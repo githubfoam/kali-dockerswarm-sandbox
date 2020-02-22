@@ -1,0 +1,4 @@
+192.168.10.23 worker1.local worker1
+192.168.10.24 worker2.local worker2
+192.168.10.2 manager.local manager
+192.168.10.3 manager1.local manager1

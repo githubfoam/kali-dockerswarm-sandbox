@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  kali-service:
+    image: localhost:5000/kali:cmd
+    volumes:
+      - /mnt/share-kali:/share
+      - /mnt/share-kali/.bash_history:/root/.bash_history
